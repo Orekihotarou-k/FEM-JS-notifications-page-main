@@ -41,7 +41,6 @@ body {
     padding: 2rem;
     display: grid;
     place-content: center;
-    height: 100svh;
     background-color: var(--clr-neutral-White);
 }
 
